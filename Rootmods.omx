@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>7ac0c459-bd43-4446-9c7d-e5a5e47396c5</uuid>
+  <title>FlyingWrecks: Rootmods - Updates the Game Directory</title>
+  <downpath>files/</downpath>
+  <references count="0">
+    <mod ident="Taz1004_fullscreen_NVG_v23.10.22" file="Taz1004_fullscreen_NVG_v23.10.22.ozp" bytes="4579" xxhsum="9b403477df84f018" category="Generic">
+      <description bytes="237">data:application/octet-stream;base64,eJwtyU1LAzEQAFDPgfyHgb3oQD6a7aW9iVIvRT3UXqSHJUm7odtMyGQr+OtF6/W9DjbzNLGvMWZ43b9IgY9zG6niGhB3w/fC2iUigBS4j5UT5b9xvV5Y7dx/fZQwtBhu5dSbb8pZ19/2c0N1vsA25fPhfmyt8NqY46/p4Fl/UZ2CaVSSN73rrV2pfD2pCwV1pKqCZ+VW5kEKKbqug+fIvqbSEmUpdmNiQAwUGTI1RCgDM7zPNcLTlGJu4Mfoz6xBirsfviVEQg==</description>
+      <url>https://drive.google.com/uc?export=download&amp;amp;amp;id=1qxeib59bYuOrramOJSah8xUkIO8rxdnx</url>
+    </mod>
+  </references>
+</Open_Mod_Manager_Repository>
